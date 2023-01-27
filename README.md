@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Laravel, Spring boot, Angular, NodeJs, Express , MySQL..**
 
-- 🤔 Worked more with the **Spring boot/Angular** stack
+- 🤔 Comfortable with the **Spring boot/Angular** , **Laravel**.
 
 - 📝 You can find me on medium (⚠️Disclaimer : i am more of a reader FOR NOW 🤓) [https://medium.com/@cyrinelouati99](https://medium.com/@cyrinelouati99)
 
