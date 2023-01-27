@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Cyrine</h1>
-<h3 align="center">Final year student in computer engineering, specialized in web development👩‍💻</h3>
+<h3 align="center">Final year student in software engineering, specialized in web development👩‍💻</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyrinelouati&show_icons=true&locale=en&theme=radical" alt="cyrinelouati" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrinelouati&theme=radical" alt="cyrinelouati" /></a> </p>
 
