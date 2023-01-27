@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Cyrine</h1>
 <h3 align="center">Final year student in computer engineering, specialized in web development👩‍💻</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyrinelouati&show_icons=true&locale=en" alt="cyrinelouati" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrinelouati" alt="cyrinelouati" /></a> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyrinelouati&show_icons=true&locale=en&theme=radical" alt="cyrinelouati" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrinelouati&theme=radical" alt="cyrinelouati" /></a> </p>
 
 - 💬 Ask me about **Laravel, Spring boot, Angular, NodeJs, Express , MySQL..**
 
@@ -75,6 +75,7 @@ Here are some ideas to get you started:
     
 
 
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cyrinelouati&show_icons=true&locale=en&layout=compact" alt="cyrinelouati" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrinelouati&" alt="cyrinelouati" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cyrinelouati&show_icons=true&locale=en&layout=compact&theme=radical" alt="cyrinelouati" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrinelouati&theme=radical" alt="cyrinelouati" /></p>
+
 
