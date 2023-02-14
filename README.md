@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyrinelouati&show_icons=true&locale=en&theme=radical" alt="cyrinelouati" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrinelouati&theme=radical" alt="cyrinelouati" /></a> </p>
 
-- 💬 Ask me about **Laravel, Spring boot, Angular, NodeJs, Express , MySQL..**
+- 💬 Ask me about **Laravel, Spring boot, Angular, NodeJs, Express , MySQL..** , looking forward to help and learn!
 
 - 🤔 Comfortable with **Spring boot/Angular** stack , **Laravel**.
 
