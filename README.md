@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Cyrine</h1>
-<h3 align="center">Final year student in computer engineering, specialized in web development👩‍💻</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyrinelouati&show_icons=true&locale=en&theme=radical" alt="cyrinelouati" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maryembess&label=Profile%20views&color=0e75b6&style=flat" alt="cyrinelouati" /> </p>
 
+<h3 align="center">Final year student in computer engineering, specialized in web development👩‍💻</h3>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyrinelouati&show_icons=true&locale=en&theme=radical" alt="cyrinelouati" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrinelouati&theme=radical" alt="cyrinelouati" /></a> </p>
 
 - 💬 Ask me about **Laravel, Spring boot, Angular, NodeJs, Express , MySQL..** , looking forward to help and learn!
