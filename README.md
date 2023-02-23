@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Cyrine</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maryembess&label=Profile%20views&color=FF69B4&style=flat" alt="cyrinelouati" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyrinelouatis&label=Profile%20views&color=FF1493&style=flat" alt="cyrinelouati" /> </p>
 
 <h3 align="center">Final year student in computer engineering, specialized in web development👩‍💻</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyrinelouati&show_icons=true&locale=en&theme=radical" alt="cyrinelouati" /></p>
