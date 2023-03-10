@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 - 🤔 Comfortable with **Spring boot/Angular** stack , **Laravel**.
 
+- 🤝 Comfortable working within a team or alone.
+
 - 📝 You can find me on medium (⚠️Disclaimer : i am more of a reader FOR NOW 🤓) [https://medium.com/@cyrinelouati99](https://medium.com/@cyrinelouati99)
 
 - 📫 How to reach me :  **cyrine.louati@esprit.tn** / **cyrinelouati99@gmail.com**
