@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💼 Know more about my studies/projects/experiences on Linkedin : [https://www.linkedin.com/in/cyrine-louati/](https://www.linkedin.com/in/cyrine-louati/)
 
-- ⚡ **Looking to exploit, share my knowledge and learn more.**
+- ⚡ **Motivated and looking to exploit, share my knowledge and learn more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
