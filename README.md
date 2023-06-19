@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 - ⚡ **Motivated and looking to exploit, share my knowledge and learn more.**
 
+- 🧠 **Currently learning and working with .Net Core / VueJS / Microsoft Sql Server.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cyrine-louati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyrine louati" height="30" width="40" /></a>
