@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📝 You can find me on medium (⚠️Disclaimer : i am more of a reader FOR NOW 🤓) [https://medium.com/@cyrinelouati99](https://medium.com/@cyrinelouati99)
 
-- 📫 How to reach me :  **cyrine.louati@esprit.tn** / **cyrinelouati99@gmail.com**
+- 📫 How to reach me :  **cyrinelouati99@gmail.com**
 
 - 💼 Know more about my studies/projects/experiences on Linkedin : [https://www.linkedin.com/in/cyrine-louati/](https://www.linkedin.com/in/cyrine-louati/)
 
